@@ -13,6 +13,6 @@ setup(
     long_description=long_description,
     long_description_content_type='text/markdown',
     package=[src_repo],
-    python_requires='>=3.12',
+    python_requires='>=3.10',
     install_requires=list_of_requirements,
 )
